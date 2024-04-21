@@ -80,11 +80,6 @@ Before you begin, ensure you have the following prerequisites installed:
 - Backend: Check src/main/resources/ for database and other configurations.
 - Frontend: src/appConfig.js to set the correct API base URL.
 
-### Usage
-
-- Backend: https://back-end-hfne.onrender.com
-- Frontend: https://front-end-8cvv.onrender.com
-
 ### Techno (M&T)
 
 All classes and who made what.
