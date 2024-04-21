@@ -1,6 +1,11 @@
 # Solar Sedum
 
-A web application built with Spring Boot and Vue.js, using MySQL as the database.
+This project was for our course 'Project EWA', in which we were assigned to make an enterprise web application for the company Solar Sedum.
+
+_Due to the hosting being free, it is very slow. It should start in roughly ~30 seconds._
+
+- Backend: https://back-end-hfne.onrender.com
+- Frontend: https://front-end-8cvv.onrender.com
 
 ## Table of Contents
 
