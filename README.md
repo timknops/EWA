@@ -7,6 +7,15 @@ _Due to the hosting being free, it is very slow. It should start in roughly ~30 
 - Backend: https://back-end-hfne.onrender.com
 - Frontend: https://front-end-8cvv.onrender.com
 
+#### Accounts:
+##### Admin 
+Name: admin  
+Password: admin  
+ 
+##### User  
+Name: TestUser  
+password: new  
+
 ## Table of Contents
 
 - [Solar Sedum](#solar-sedum)
